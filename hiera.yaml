@@ -1,5 +1,5 @@
 ---
-version: 5  
+version: 5
 
 hierarchy:
   - name: "Encrypted data"
